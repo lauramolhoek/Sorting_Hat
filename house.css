@@ -1,0 +1,27 @@
+body{
+    background: khaki;
+}
+
+h1 
+{
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info{text-align: center;
+    border-style: dotted;
+}
+
+.score {
+    text-align: center;
+}
+
+form{
+    text-align: center;
+};
+
